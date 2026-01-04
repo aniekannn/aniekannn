@@ -1,0 +1,3 @@
+Hi! I'm a Sophomore in Texas A&M's College of Engineering, and to majoring in Electrical Engineering. At Texas A&M, I'm an Undergraduate Researcher at Digital Manufacturing and Distribution Lab, co-project manager of Aggie Agenda, and a member of the Software subteam of the 6-DOF Prosthetic Ankle project. I'm primarily interested in Computer Science, Robotics, and Embedded Systems.
+
+In my free time, I like to read (currently finishing The Stranger by Camus), bike, and listen to music (a lot of Aphex Twin). Check out someone of my projects and learn more about me at aniekan-ekanem.com
