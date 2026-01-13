@@ -1,3 +1,3 @@
 Hi! I'm a Sophomore in Texas A&M's College of Engineering and studying Electrical Engineering & Mathematics. At Texas A&M, I'm an Undergraduate Researcher at Digital Manufacturing and Distribution Lab, co-project manager of Aggie Agenda, and a member of the Software subteam of the 6-DOF Prosthetic Ankle project. I'm primarily interested in Robotics, Embedded Systems, and Computer Science.
 
-In my free time, I like to read (currently finishing The Stranger by Camus), bike, and listen to music (a lot of U2 right now). Check out someone of my projects and learn more about me at [aniekan-ekanem.com](https://aniekan-ekanem.com)
+In my free time, I like to read (currently: Giovanni's Room by James Baldwin), bike, and listen to music (a lot of U2 & Freddie Gibbs right now). Check out someone of my projects and learn more about me at [aniekan-ekanem.com](https://aniekan-ekanem.com)
