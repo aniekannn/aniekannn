@@ -2,4 +2,4 @@ Hi! I'm a junior in Texas A&M's College of Engineering and studying Electrical E
 
 I was previously an Electrical Engineering intern @ Burns & McDonnell, SWE intern @ Sqooasha, Member of Technical Staff at Disertus Labs. At Texas A&M, I was an Undergraduate Researcher at Digital Manufacturing and Distribution Lab, and members of the Software subteam of the 6-DOF Prosthetic Ankle project & the EDEN Humanoid Project. I'm really interested in Robotics, Embedded & Control Systems.
 
-In my free time, I like to read (currently: trying to find smth), bike, and listen to music (a lot of old George Clanton & Gaskin right now). Check out someone of my projects and learn more about me at [aniekan-ekanem.com](https://aniekan-ekanem.com) (currerntly a work i progress).
+In my free time, I like to read (currently: trying to find something), bike, and listen to music (a lot of old George Clanton & Gaskin right now). Check out someone of my projects and learn more about me at [aniekan-ekanem.com](https://aniekan-ekanem.com) (currerntly a work in progress).
